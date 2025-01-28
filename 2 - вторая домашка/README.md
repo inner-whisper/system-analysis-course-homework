@@ -43,3 +43,9 @@
 ## Bounded Contexts
 
 ![Bounded Contexts](Bounded%20Contexts.jpg)
+
+## Event Storming
+
+Был обновлен после разбора первого ДЗ
+
+![Event Storming](Event%20Storming.jpg)
