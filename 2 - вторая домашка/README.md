@@ -38,4 +38,4 @@
 
 ## Core Domain Chart
 
-[Core Domain Chart.pdf](Core%20Domain%20Chart.pdf)
+![Core Domain Chart](Core%20Domain%20Chart.jpg)
